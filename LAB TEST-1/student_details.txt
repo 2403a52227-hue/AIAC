@@ -1,0 +1,16 @@
+==============STUDENT DETAILS================
+Name       : Naveen
+Roll No    : 2403A52227
+Department : CSE
+Batch      : 09
+Year       : 2nd year
+==============================
+
+==============================
+Name       : vvr
+Roll No    : 234
+Department : 56
+Batch      : 34
+Year       : 45432
+==============================
+
